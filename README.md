@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakket kesar</h1>
+<h1 align="center">Hi 👋, I'm Saket kesar</h1>
 <h3 align="center">A passionate front Enddeveloper from India</h3>
 <img align="right" alt="animatedcoder" width"400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"
 
