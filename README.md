@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saket kesar</h1>
-<h3 align="center">A passionate front Enddeveloper from India</h3>
+<h3 align="center">A passionate front End web developer from India</h3>
 <img align="right" alt="animatedcoder" width"400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketkesar&label=Profile%20views&color=0e75b6&style=flat" alt="saketkesar" /> </p>
